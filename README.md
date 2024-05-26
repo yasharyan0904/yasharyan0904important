@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yasharyan0904
+- 👋 Hi, I’m YASH_ARYAN
 - 👀 I’m interested in Web_Development_and_Blockchain
 - 🌱 I’m currently learning Javascript_and_Solidity
 - 💞️ I’m looking to collaborate on ...
